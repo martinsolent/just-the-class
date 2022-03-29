@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Kevin Lin:
-    - 'https://kevinl.info'
+    - 'https://martinsolent.github.io'
   Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - 'https://martinsolent.github.io/just-the-class'
 footer_content:
 
 # Collections for website data
