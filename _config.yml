@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Martin Reid:
     - 'https://martinsolent.github.io'
   Just the Class on GitHub:
-    - 'https://martinsolent.github.io/just-the-class'
+    - 'https://martinsolent.github.io/just_class_test'
 footer_content:
 
 # Collections for website data
